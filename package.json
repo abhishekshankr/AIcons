@@ -1,0 +1,20 @@
+{
+    "name": "AIcons",
+    "version": "0.2.0",
+    "description": "A collection of customizable SVG icons built for use in LLM applications",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/abhishekshankr/AIcons.git"
+    },
+    "keywords": ["icons", "svg", "accessible", "customizable"],
+    "author": "Abhishek Shankar",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/abhishekshankr/AIcons/issues"
+    },
+    "homepage": "https://github.com/abhishekshankr/AIcons#readme"
+  }  
