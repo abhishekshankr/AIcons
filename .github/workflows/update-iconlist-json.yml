@@ -1,0 +1,32 @@
+name: Update Icons JSON in Test Branch
+
+on:
+  push:
+    branches:
+      - github-actions-test
+    paths:
+      - 'Icons/**'
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Run Script to Generate JSON
+      run: python generate_iconlist_json.py
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: 'Automatically update iconlist JSON files'
+        branch: github-actions-test
