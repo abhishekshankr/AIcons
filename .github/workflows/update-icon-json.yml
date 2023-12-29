@@ -20,7 +20,7 @@ jobs:
         python-version: '3.10'
 
     - name: Run Script to Generate JSON
-      run: python workflows/generate_icons_json.py  # Replace with the path to your script
+      run: python generate_icons_json.py
 
     - name: Commit and Push Changes
       uses: stefanzweifel/git-auto-commit-action@v5
