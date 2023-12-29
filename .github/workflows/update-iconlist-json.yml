@@ -28,5 +28,5 @@ jobs:
     - name: Commit and Push Changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: 'Automatically update icon JSON files'
+        commit_message: 'Automatically update iconlist JSON files'
         branch: github-actions-test
