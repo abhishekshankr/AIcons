@@ -2,19 +2,19 @@ import os
 import json
 
 def generate_json_for_directory(directory, username, repository, branch):
-    base_url = f"https://github.com/{username}/{repository}/blob/{branch}"
+    base_url = f"https://raw.githubusercontent.com/{username}/{repository}/{branch}"
     icons = []
 
     for filename in os.listdir(directory):
         if filename.endswith('.svg'):
-            file_path = os.path.join(directory, filename)
+            file_path = os.path.join(directory, filename).replace('\\', '/')
             icon_info = {
                 "name": filename,
                 "download_url": f"{base_url}/{file_path}"
             }
             icons.append(icon_info)
 
-    with open(os.path.join(directory, 'icons.json'), 'w') as json_file:
+    with open(os.path.join(directory, 'iconlist.json'), 'w') as json_file:
         json.dump(icons, json_file, indent=4)
 
 def main():
