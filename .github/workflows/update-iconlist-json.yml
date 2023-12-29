@@ -3,7 +3,7 @@ name: Update Icons JSON in Test Branch
 on:
   push:
     branches:
-      - github-actions-test
+      - main
     paths:
       - 'Icons/**'
 
