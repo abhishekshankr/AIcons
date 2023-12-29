@@ -1,4 +1,4 @@
-name: Update Icons JSON in Test Branch
+name: Update Icons JSON
 
 on:
   push:
@@ -25,7 +25,19 @@ jobs:
     - name: Run Script to Generate JSON
       run: python generate_iconlist_json.py
 
+    - name: Check for changes
+      id: git-check
+      run: |
+        if git diff --exit-code; then
+            echo "No changes to commit"
+            echo "::set-output name=changes::false"
+        else
+            echo "Changes detected"
+            echo "::set-output name=changes::true"
+        fi
+
     - name: Commit and Push Changes
+      if: steps.git-check.outputs.changes == 'true'
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: 'Automatically update iconlist JSON files'
