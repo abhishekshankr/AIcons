@@ -52,12 +52,20 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/singlestore.svg"
     },
     {
+        "name": "arrow-right-curved-alt.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-right-curved-alt.svg"
+    },
+    {
         "name": "splitter-markdown.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/splitter-markdown.svg"
     },
     {
         "name": "openai-shield.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/openai-shield.svg"
+    },
+    {
+        "name": "arrow-up-curved-alt.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-up-curved-alt.svg"
     },
     {
         "name": "chat-text.svg",
@@ -128,6 +136,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/variable-bracket.svg"
     },
     {
+        "name": "arrow-down-left.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-down-left.svg"
+    },
+    {
         "name": "chat-conversation.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/chat-conversation.svg"
     },
@@ -194,6 +206,10 @@
     {
         "name": "shield-cross.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/shield-cross.svg"
+    },
+    {
+        "name": "paperclip.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/paperclip.svg"
     },
     {
         "name": "warning-round.svg",
@@ -264,6 +280,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/shield-check.svg"
     },
     {
+        "name": "arrow-down-curved-alt.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-down-curved-alt.svg"
+    },
+    {
         "name": "plugin.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/plugin.svg"
     },
@@ -320,6 +340,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/mistralai.svg"
     },
     {
+        "name": "arrow-down.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-down.svg"
+    },
+    {
         "name": "azure.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/azure.svg"
     },
@@ -370,6 +394,10 @@
     {
         "name": "warning-triangle.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/warning-triangle.svg"
+    },
+    {
+        "name": "arrow-up.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-up.svg"
     },
     {
         "name": "box-code.svg",
@@ -520,6 +548,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/file-pdf.svg"
     },
     {
+        "name": "arrow-down-curved.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-down-curved.svg"
+    },
+    {
         "name": "tool-get.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/tool-get.svg"
     },
@@ -580,6 +612,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/chat-conversation-dots.svg"
     },
     {
+        "name": "arrows-corner-inwards.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrows-corner-inwards.svg"
+    },
+    {
         "name": "save-floppy-disk-back.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/save-floppy-disk-back.svg"
     },
@@ -634,6 +670,14 @@
     {
         "name": "web-globe.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/web-globe.svg"
+    },
+    {
+        "name": "arrow-right.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-right.svg"
+    },
+    {
+        "name": "share-export.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/share-export.svg"
     },
     {
         "name": "chat-lines.svg",
@@ -696,6 +740,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/file-json.svg"
     },
     {
+        "name": "arrow-up-curved.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-up-curved.svg"
+    },
+    {
         "name": "chat-dots.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/chat-dots.svg"
     },
@@ -710,6 +758,10 @@
     {
         "name": "button-check-box.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/button-check-box.svg"
+    },
+    {
+        "name": "arrow-down-right.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-down-right.svg"
     },
     {
         "name": "openai.svg",
@@ -764,6 +816,14 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/folder.svg"
     },
     {
+        "name": "arrow-up-right.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-up-right.svg"
+    },
+    {
+        "name": "arrow-left.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-left.svg"
+    },
+    {
         "name": "chat-conversation-code.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/chat-conversation-code.svg"
     },
@@ -780,12 +840,20 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/token-split.svg"
     },
     {
+        "name": "arrow-left-curved-alt.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-left-curved-alt.svg"
+    },
+    {
         "name": "cloud-upload.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/cloud-upload.svg"
     },
     {
         "name": "file-download.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/file-download.svg"
+    },
+    {
+        "name": "arrow-up-left.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Fill/arrow-up-left.svg"
     },
     {
         "name": "github.svg",
