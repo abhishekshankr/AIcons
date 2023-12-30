@@ -30,14 +30,14 @@ jobs:
       run: |
         if git diff --exit-code; then
             echo "No changes to commit"
-            echo "::set-output name=changes::false"
+            echo "changes=false" >> $GITHUB_ENV
         else
             echo "Changes detected"
-            echo "::set-output name=changes::true"
+            echo "changes=true" >> $GITHUB_ENV
         fi
 
     - name: Commit and Push Changes
-      if: steps.git-check.outputs.changes == 'true'
+      if: env.changes == 'true'
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: 'Automatically update iconlist JSON files'
