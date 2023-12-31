@@ -1,898 +1,677 @@
 [
     {
-        "name": "output-csv.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/output-csv.svg"
+        "name": "output-csv.svg"
     },
     {
-        "name": "database-conversation.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-conversation.svg"
+        "name": "database-conversation.svg"
     },
     {
-        "name": "chat-up.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-up.svg"
+        "name": "chat-up.svg"
     },
     {
-        "name": "plus.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/plus.svg"
+        "name": "plus.svg"
     },
     {
-        "name": "cheerio.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/cheerio.svg"
+        "name": "cheerio.svg"
     },
     {
-        "name": "serp.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/serp.svg"
+        "name": "serp.svg"
     },
     {
-        "name": "settings-gear-six.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/settings-gear-six.svg"
+        "name": "settings-gear-six.svg"
     },
     {
-        "name": "clipboard.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/clipboard.svg"
+        "name": "clipboard.svg"
     },
     {
-        "name": "graph-similar.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/graph-similar.svg"
+        "name": "graph-similar.svg"
     },
     {
-        "name": "memory-cache.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/memory-cache.svg"
+        "name": "memory-cache.svg"
     },
     {
-        "name": "eye-open 1.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/eye-open 1.svg"
+        "name": "eye-open 1.svg"
     },
     {
-        "name": "file-jpg.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-jpg.svg"
+        "name": "file-jpg.svg"
     },
     {
-        "name": "singlestore.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/singlestore.svg"
+        "name": "singlestore.svg"
     },
     {
-        "name": "arrow-right-curved-alt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-right-curved-alt.svg"
+        "name": "arrow-right-curved-alt.svg"
     },
     {
-        "name": "splitter-markdown.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/splitter-markdown.svg"
+        "name": "splitter-markdown.svg"
     },
     {
-        "name": "openai-shield.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/openai-shield.svg"
+        "name": "openai-shield.svg"
     },
     {
-        "name": "arrow-up-curved-alt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-up-curved-alt.svg"
+        "name": "arrow-up-curved-alt.svg"
     },
     {
-        "name": "chat-text.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-text.svg"
+        "name": "chat-text.svg"
     },
     {
-        "name": "check.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/check.svg"
+        "name": "check.svg"
     },
     {
-        "name": "chain-conversation.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-conversation.svg"
+        "name": "chain-conversation.svg"
     },
     {
-        "name": "serper.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/serper.svg"
+        "name": "serper.svg"
     },
     {
-        "name": "memory-database.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/memory-database.svg"
+        "name": "memory-database.svg"
     },
     {
-        "name": "notion-file.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/notion-file.svg"
+        "name": "notion-file.svg"
     },
     {
-        "name": "unstructured-logo.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/unstructured-logo.svg"
+        "name": "unstructured-logo.svg"
     },
     {
-        "name": "notion-database.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/notion-database.svg"
+        "name": "notion-database.svg"
     },
     {
-        "name": "token.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/token.svg"
+        "name": "token.svg"
     },
     {
-        "name": "openai-assistant.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/openai-assistant.svg"
+        "name": "openai-assistant.svg"
     },
     {
-        "name": "file-png.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-png.svg"
+        "name": "file-png.svg"
     },
     {
-        "name": "bucket.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/bucket.svg"
+        "name": "bucket.svg"
     },
     {
-        "name": "chain-post.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-post.svg"
+        "name": "chain-post.svg"
     },
     {
-        "name": "database.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database.svg"
+        "name": "database.svg"
     },
     {
-        "name": "openapi.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/openapi.svg"
+        "name": "openapi.svg"
     },
     {
-        "name": "key.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/key.svg"
+        "name": "key.svg"
     },
     {
-        "name": "variable-bracket.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/variable-bracket.svg"
+        "name": "variable-bracket.svg"
     },
     {
-        "name": "arrow-down-left.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-down-left.svg"
+        "name": "arrow-down-left.svg"
     },
     {
-        "name": "chat-conversation.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-conversation.svg"
+        "name": "chat-conversation.svg"
     },
     {
-        "name": "memory.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/memory.svg"
+        "name": "memory.svg"
     },
     {
-        "name": "bravesearch.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/bravesearch.svg"
+        "name": "bravesearch.svg"
     },
     {
-        "name": "rank-bar.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/rank-bar.svg"
+        "name": "rank-bar.svg"
     },
     {
-        "name": "ribbon-award-circle.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/ribbon-award-circle.svg"
+        "name": "ribbon-award-circle.svg"
     },
     {
-        "name": "chat-bubble.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-bubble.svg"
+        "name": "chat-bubble.svg"
     },
     {
-        "name": "tool-post.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/tool-post.svg"
+        "name": "tool-post.svg"
     },
     {
-        "name": "huggingface.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/huggingface.svg"
+        "name": "huggingface.svg"
     },
     {
-        "name": "io.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/io.svg"
+        "name": "io.svg"
     },
     {
-        "name": "splitter-character.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/splitter-character.svg"
+        "name": "splitter-character.svg"
     },
     {
-        "name": "baby.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/baby.svg"
+        "name": "baby.svg"
     },
     {
-        "name": "output-json.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/output-json.svg"
+        "name": "output-json.svg"
     },
     {
-        "name": "database-left.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-left.svg"
+        "name": "database-left.svg"
     },
     {
-        "name": "unstructured-folder.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/unstructured-folder.svg"
+        "name": "unstructured-folder.svg"
     },
     {
-        "name": "atoms.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/atoms.svg"
+        "name": "atoms.svg"
     },
     {
-        "name": "upstash-redis.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/upstash-redis.svg"
+        "name": "upstash-redis.svg"
     },
     {
-        "name": "assistant.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/assistant.svg"
+        "name": "assistant.svg"
     },
     {
-        "name": "shield-cross.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/shield-cross.svg"
+        "name": "shield-cross.svg"
     },
     {
-        "name": "paperclip.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/paperclip.svg"
+        "name": "paperclip.svg"
     },
     {
-        "name": "warning-round.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/warning-round.svg"
+        "name": "warning-round.svg"
     },
     {
-        "name": "memory-conversation.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/memory-conversation.svg"
+        "name": "memory-conversation.svg"
     },
     {
-        "name": "arrow-right-curved.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-right-curved.svg"
+        "name": "arrow-right-curved.svg"
     },
     {
-        "name": "stopwatch-timer.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/stopwatch-timer.svg"
+        "name": "stopwatch-timer.svg"
     },
     {
-        "name": "chain-prompt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-prompt.svg"
+        "name": "chain-prompt.svg"
     },
     {
-        "name": "splitter-code.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/splitter-code.svg"
+        "name": "splitter-code.svg"
     },
     {
-        "name": "bookmark.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/bookmark.svg"
+        "name": "bookmark.svg"
     },
     {
-        "name": "tool.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/tool.svg"
+        "name": "tool.svg"
     },
     {
-        "name": "elasticsearch.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/elasticsearch.svg"
+        "name": "elasticsearch.svg"
     },
     {
-        "name": "moon.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/moon.svg"
+        "name": "moon.svg"
     },
     {
-        "name": "ribbon-award.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/ribbon-award.svg"
+        "name": "ribbon-award.svg"
     },
     {
-        "name": "graph-line.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/graph-line.svg"
+        "name": "graph-line.svg"
     },
     {
-        "name": "dots-embedding.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/dots-embedding.svg"
+        "name": "dots-embedding.svg"
     },
     {
-        "name": "button-check-box-cross.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/button-check-box-cross.svg"
+        "name": "button-check-box-cross.svg"
     },
     {
-        "name": "cohere.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/cohere.svg"
+        "name": "cohere.svg"
     },
     {
-        "name": "scissors.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/scissors.svg"
+        "name": "scissors.svg"
     },
     {
-        "name": "chroma.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chroma.svg"
+        "name": "chroma.svg"
     },
     {
-        "name": "calculator.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/calculator.svg"
+        "name": "calculator.svg"
     },
     {
-        "name": "shield-check.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/shield-check.svg"
+        "name": "shield-check.svg"
     },
     {
-        "name": "arrow-down-curved-alt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-down-curved-alt.svg"
+        "name": "arrow-down-curved-alt.svg"
     },
     {
-        "name": "plugin.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/plugin.svg"
+        "name": "plugin.svg"
     },
     {
-        "name": "sun.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/sun.svg"
+        "name": "sun.svg"
     },
     {
-        "name": "web-browser.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/web-browser.svg"
+        "name": "web-browser.svg"
     },
     {
-        "name": "zapier.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/zapier.svg"
+        "name": "zapier.svg"
     },
     {
-        "name": "flow.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/flow.svg"
+        "name": "flow.svg"
     },
     {
-        "name": "button-check-box-multiple.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/button-check-box-multiple.svg"
+        "name": "button-check-box-multiple.svg"
     },
     {
-        "name": "ollama.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/ollama.svg"
+        "name": "ollama.svg"
     },
     {
-        "name": "file-export.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-export.svg"
+        "name": "file-export.svg"
     },
     {
-        "name": "motorhead.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/motorhead.svg"
+        "name": "motorhead.svg"
     },
     {
-        "name": "arrows-corner-expand.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrows-corner-expand.svg"
+        "name": "arrows-corner-expand.svg"
     },
     {
-        "name": "recycle.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/recycle.svg"
+        "name": "recycle.svg"
     },
     {
-        "name": "file-docx.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-docx.svg"
+        "name": "file-docx.svg"
     },
     {
-        "name": "file-txt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-txt.svg"
+        "name": "file-txt.svg"
     },
     {
-        "name": "mistralai.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/mistralai.svg"
+        "name": "mistralai.svg"
     },
     {
-        "name": "arrow-down.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-down.svg"
+        "name": "arrow-down.svg"
     },
     {
-        "name": "azure.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/azure.svg"
+        "name": "azure.svg"
     },
     {
-        "name": "memory-window.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/memory-window.svg"
+        "name": "memory-window.svg"
     },
     {
-        "name": "cross-x.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/cross-x.svg"
+        "name": "cross-x.svg"
     },
     {
-        "name": "confluence.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/confluence.svg"
+        "name": "confluence.svg"
     },
     {
-        "name": "text.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/text.svg"
+        "name": "text.svg"
     },
     {
-        "name": "search.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/search.svg"
+        "name": "search.svg"
     },
     {
-        "name": "home-door.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/home-door.svg"
+        "name": "home-door.svg"
     },
     {
-        "name": "cloud-download.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/cloud-download.svg"
+        "name": "cloud-download.svg"
     },
     {
-        "name": "database-down.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-down.svg"
+        "name": "database-down.svg"
     },
     {
-        "name": "marketplace.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/marketplace.svg"
+        "name": "marketplace.svg"
     },
     {
-        "name": "chain.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain.svg"
+        "name": "chain.svg"
     },
     {
-        "name": "minus.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/minus.svg"
+        "name": "minus.svg"
     },
     {
-        "name": "warning-triangle.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/warning-triangle.svg"
+        "name": "warning-triangle.svg"
     },
     {
-        "name": "arrow-up.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-up.svg"
+        "name": "arrow-up.svg"
     },
     {
-        "name": "box-code.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/box-code.svg"
+        "name": "box-code.svg"
     },
     {
-        "name": "variable-up.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/variable-up.svg"
+        "name": "variable-up.svg"
     },
     {
-        "name": "chain-llm.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-llm.svg"
+        "name": "chain-llm.svg"
     },
     {
-        "name": "vectara.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/vectara.svg"
+        "name": "vectara.svg"
     },
     {
-        "name": "supabase.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/supabase.svg"
+        "name": "supabase.svg"
     },
     {
-        "name": "anthropic.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/anthropic.svg"
+        "name": "anthropic.svg"
     },
     {
-        "name": "database-tool.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-tool.svg"
+        "name": "database-tool.svg"
     },
     {
-        "name": "zoom-in.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/zoom-in.svg"
+        "name": "zoom-in.svg"
     },
     {
-        "name": "playwright.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/playwright.svg"
+        "name": "playwright.svg"
     },
     {
-        "name": "neuralinternetbittensor.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/neuralinternetbittensor.svg"
+        "name": "neuralinternetbittensor.svg"
     },
     {
-        "name": "agent-csv.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/agent-csv.svg"
+        "name": "agent-csv.svg"
     },
     {
-        "name": "google-palm.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/google-palm.svg"
+        "name": "google-palm.svg"
     },
     {
-        "name": "apify.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/apify.svg"
+        "name": "apify.svg"
     },
     {
-        "name": "settings-gear-eight.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/settings-gear-eight.svg"
+        "name": "settings-gear-eight.svg"
     },
     {
-        "name": "search-alert.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/search-alert.svg"
+        "name": "search-alert.svg"
     },
     {
-        "name": "lines-json.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/lines-json.svg"
+        "name": "lines-json.svg"
     },
     {
-        "name": "information.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/information.svg"
+        "name": "information.svg"
     },
     {
-        "name": "variable-down.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/variable-down.svg"
+        "name": "variable-down.svg"
     },
     {
-        "name": "copy.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/copy.svg"
+        "name": "copy.svg"
     },
     {
-        "name": "google-vertex.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/google-vertex.svg"
+        "name": "google-vertex.svg"
     },
     {
-        "name": "autogpt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/autogpt.svg"
+        "name": "autogpt.svg"
     },
     {
-        "name": "snowflake.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/snowflake.svg"
+        "name": "snowflake.svg"
     },
     {
-        "name": "database-right.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-right.svg"
+        "name": "database-right.svg"
     },
     {
-        "name": "chat-down.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-down.svg"
+        "name": "chat-down.svg"
     },
     {
-        "name": "hourglass.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/hourglass.svg"
+        "name": "hourglass.svg"
     },
     {
-        "name": "chat-code.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-code.svg"
+        "name": "chat-code.svg"
     },
     {
-        "name": "milvus.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/milvus.svg"
+        "name": "milvus.svg"
     },
     {
-        "name": "file-csv.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-csv.svg"
+        "name": "file-csv.svg"
     },
     {
-        "name": "google-gemini.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/google-gemini.svg"
+        "name": "google-gemini.svg"
     },
     {
-        "name": "chain-db.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-db.svg"
+        "name": "chain-db.svg"
     },
     {
-        "name": "file-archive.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-archive.svg"
+        "name": "file-archive.svg"
     },
     {
-        "name": "database-up.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-up.svg"
+        "name": "database-up.svg"
     },
     {
-        "name": "output-list.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/output-list.svg"
+        "name": "output-list.svg"
     },
     {
-        "name": "chain-get.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-get.svg"
+        "name": "chain-get.svg"
     },
     {
-        "name": "shield.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/shield.svg"
+        "name": "shield.svg"
     },
     {
-        "name": "airtable.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/airtable.svg"
+        "name": "airtable.svg"
     },
     {
-        "name": "notion.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/notion.svg"
+        "name": "notion.svg"
     },
     {
-        "name": "file-pdf.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-pdf.svg"
+        "name": "file-pdf.svg"
     },
     {
-        "name": "arrow-down-curved.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-down-curved.svg"
+        "name": "arrow-down-curved.svg"
     },
     {
-        "name": "tool-get.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/tool-get.svg"
+        "name": "tool-get.svg"
     },
     {
-        "name": "file-srt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-srt.svg"
+        "name": "file-srt.svg"
     },
     {
-        "name": "magic-wand.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/magic-wand.svg"
+        "name": "magic-wand.svg"
     },
     {
-        "name": "clock-time.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/clock-time.svg"
+        "name": "clock-time.svg"
     },
     {
-        "name": "zoom-out.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/zoom-out.svg"
+        "name": "zoom-out.svg"
     },
     {
-        "name": "aws.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/aws.svg"
+        "name": "aws.svg"
     },
     {
-        "name": "pinecone.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/pinecone.svg"
+        "name": "pinecone.svg"
     },
     {
-        "name": "google.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/google.svg"
+        "name": "google.svg"
     },
     {
-        "name": "file.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file.svg"
+        "name": "file.svg"
     },
     {
-        "name": "file-leftright.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-leftright.svg"
+        "name": "file-leftright.svg"
     },
     {
-        "name": "trash.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/trash.svg"
+        "name": "trash.svg"
     },
     {
-        "name": "mongodb.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/mongodb.svg"
+        "name": "mongodb.svg"
     },
     {
-        "name": "gitbook.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/gitbook.svg"
+        "name": "gitbook.svg"
     },
     {
-        "name": "write.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/write.svg"
+        "name": "write.svg"
     },
     {
-        "name": "chain-sql.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-sql.svg"
+        "name": "chain-sql.svg"
     },
     {
-        "name": "chat-conversation-dots.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-conversation-dots.svg"
+        "name": "chat-conversation-dots.svg"
     },
     {
-        "name": "arrows-corner-inwards.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrows-corner-inwards.svg"
+        "name": "arrows-corner-inwards.svg"
     },
     {
-        "name": "save-floppy-disk-back.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/save-floppy-disk-back.svg"
+        "name": "save-floppy-disk-back.svg"
     },
     {
-        "name": "function.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/function.svg"
+        "name": "function.svg"
     },
     {
-        "name": "momento.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/momento.svg"
+        "name": "momento.svg"
     },
     {
-        "name": "openai-function.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/openai-function.svg"
+        "name": "openai-function.svg"
     },
     {
-        "name": "account-user.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/account-user.svg"
+        "name": "account-user.svg"
     },
     {
-        "name": "lock-open.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/lock-open.svg"
+        "name": "lock-open.svg"
     },
     {
-        "name": "arrow-left-curved.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-left-curved.svg"
+        "name": "arrow-left-curved.svg"
     },
     {
-        "name": "file-database.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-database.svg"
+        "name": "file-database.svg"
     },
     {
-        "name": "save-floppy-disk.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/save-floppy-disk.svg"
+        "name": "save-floppy-disk.svg"
     },
     {
-        "name": "agent.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/agent.svg"
+        "name": "agent.svg"
     },
     {
-        "name": "searchapi.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/searchapi.svg"
+        "name": "searchapi.svg"
     },
     {
-        "name": "notion-folder.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/notion-folder.svg"
+        "name": "notion-folder.svg"
     },
     {
-        "name": "button-check-box-plus.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/button-check-box-plus.svg"
+        "name": "button-check-box-plus.svg"
     },
     {
-        "name": "web-globe.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/web-globe.svg"
+        "name": "web-globe.svg"
     },
     {
-        "name": "arrow-right.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-right.svg"
+        "name": "arrow-right.svg"
     },
     {
-        "name": "share-export.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/share-export.svg"
+        "name": "share-export.svg"
     },
     {
-        "name": "chat-lines.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-lines.svg"
+        "name": "chat-lines.svg"
     },
     {
-        "name": "replicate.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/replicate.svg"
+        "name": "replicate.svg"
     },
     {
-        "name": "unstructured-file.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/unstructured-file.svg"
+        "name": "unstructured-file.svg"
     },
     {
-        "name": "clipboard-shield.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/clipboard-shield.svg"
+        "name": "clipboard-shield.svg"
     },
     {
-        "name": "lunary.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/lunary.svg"
+        "name": "lunary.svg"
     },
     {
-        "name": "button-radio.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/button-radio.svg"
+        "name": "button-radio.svg"
     },
     {
-        "name": "variable.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/variable.svg"
+        "name": "variable.svg"
     },
     {
-        "name": "rank-podium.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/rank-podium.svg"
+        "name": "rank-podium.svg"
     },
     {
-        "name": "lock-closed.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/lock-closed.svg"
+        "name": "lock-closed.svg"
     },
     {
-        "name": "database-cache.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-cache.svg"
+        "name": "database-cache.svg"
     },
     {
-        "name": "split.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/split.svg"
+        "name": "split.svg"
     },
     {
-        "name": "redis.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/redis.svg"
+        "name": "redis.svg"
     },
     {
-        "name": "api.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/api.svg"
+        "name": "api.svg"
     },
     {
-        "name": "dynamodb.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/dynamodb.svg"
+        "name": "dynamodb.svg"
     },
     {
-        "name": "file-json.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-json.svg"
+        "name": "file-json.svg"
     },
     {
-        "name": "arrow-up-curved.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-up-curved.svg"
+        "name": "arrow-up-curved.svg"
     },
     {
-        "name": "chat-dots.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-dots.svg"
+        "name": "chat-dots.svg"
     },
     {
-        "name": "puzzle.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/puzzle.svg"
+        "name": "puzzle.svg"
     },
     {
-        "name": "arrow-circle-back.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-circle-back.svg"
+        "name": "arrow-circle-back.svg"
     },
     {
-        "name": "button-check-box.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/button-check-box.svg"
+        "name": "button-check-box.svg"
     },
     {
-        "name": "arrow-down-right.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-down-right.svg"
+        "name": "arrow-down-right.svg"
     },
     {
-        "name": "openai.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/openai.svg"
+        "name": "openai.svg"
     },
     {
-        "name": "file-search.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-search.svg"
+        "name": "file-search.svg"
     },
     {
-        "name": "puppeteer.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/puppeteer.svg"
+        "name": "puppeteer.svg"
     },
     {
-        "name": "figma.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/figma.svg"
+        "name": "figma.svg"
     },
     {
-        "name": "home.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/home.svg"
+        "name": "home.svg"
     },
     {
-        "name": "opensearch.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/opensearch.svg"
+        "name": "heart.svg"
     },
     {
-        "name": "qdrant.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/qdrant.svg"
+        "name": "opensearch.svg"
     },
     {
-        "name": "file-edit.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-edit.svg"
+        "name": "qdrant.svg"
     },
     {
-        "name": "fruit-apple.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/fruit-apple.svg"
+        "name": "file-edit.svg"
     },
     {
-        "name": "file-upload.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-upload.svg"
+        "name": "fruit-apple.svg"
     },
     {
-        "name": "weaviate.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/weaviate.svg"
+        "name": "file-upload.svg"
     },
     {
-        "name": "postgres.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/postgres.svg"
+        "name": "weaviate.svg"
     },
     {
-        "name": "folder.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/folder.svg"
+        "name": "postgres.svg"
     },
     {
-        "name": "arrow-up-right.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-up-right.svg"
+        "name": "folder.svg"
     },
     {
-        "name": "arrow-left.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-left.svg"
+        "name": "arrow-up-right.svg"
     },
     {
-        "name": "chat-conversation-code.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-conversation-code.svg"
+        "name": "arrow-left.svg"
     },
     {
-        "name": "eye-open.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/eye-open.svg"
+        "name": "chat-conversation-code.svg"
     },
     {
-        "name": "zep.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/zep.svg"
+        "name": "eye-open.svg"
     },
     {
-        "name": "token-split.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/token-split.svg"
+        "name": "zep.svg"
     },
     {
-        "name": "arrow-left-curved-alt.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-left-curved-alt.svg"
+        "name": "token-split.svg"
     },
     {
-        "name": "cloud-upload.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/cloud-upload.svg"
+        "name": "arrow-left-curved-alt.svg"
     },
     {
-        "name": "file-download.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-download.svg"
+        "name": "cloud-upload.svg"
     },
     {
-        "name": "arrow-up-left.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/arrow-up-left.svg"
+        "name": "file-download.svg"
     },
     {
-        "name": "github.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/github.svg"
+        "name": "arrow-up-left.svg"
     },
     {
-        "name": "cloud.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/cloud.svg"
+        "name": "github.svg"
     },
     {
-        "name": "chain-qa.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chain-qa.svg"
+        "name": "cloud.svg"
     },
     {
-        "name": "password.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/password.svg"
+        "name": "chain-qa.svg"
     },
     {
-        "name": "sparkle.svg",
-        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/sparkle.svg"
+        "name": "password.svg"
+    },
+    {
+        "name": "sparkle.svg"
     }
 ]
