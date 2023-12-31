@@ -156,6 +156,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/rank-bar.svg"
     },
     {
+        "name": "ribbon-award-circle.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/ribbon-award-circle.svg"
+    },
+    {
         "name": "chat-bubble.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/chat-bubble.svg"
     },
@@ -236,6 +240,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/splitter-code.svg"
     },
     {
+        "name": "bookmark.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/bookmark.svg"
+    },
+    {
         "name": "tool.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/tool.svg"
     },
@@ -246,6 +254,10 @@
     {
         "name": "moon.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/moon.svg"
+    },
+    {
+        "name": "ribbon-award.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/ribbon-award.svg"
     },
     {
         "name": "graph-line.svg",
@@ -484,6 +496,10 @@
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/autogpt.svg"
     },
     {
+        "name": "snowflake.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/snowflake.svg"
+    },
+    {
         "name": "database-right.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/database-right.svg"
     },
@@ -558,6 +574,10 @@
     {
         "name": "file-srt.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/file-srt.svg"
+    },
+    {
+        "name": "magic-wand.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/magic-wand.svg"
     },
     {
         "name": "clock-time.svg",
@@ -870,5 +890,9 @@
     {
         "name": "password.svg",
         "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/password.svg"
+    },
+    {
+        "name": "sparkle.svg",
+        "download_url": "https://raw.githubusercontent.com/abhishekshankr/AIcons/main/Icons/Stroke/sparkle.svg"
     }
 ]
