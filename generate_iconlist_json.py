@@ -10,7 +10,6 @@ def generate_json_for_directory(directory, username, repository, branch):
             file_path = os.path.join(directory, filename).replace('\\', '/')
             icon_info = {
                 "name": filename,
-                "download_url": f"{base_url}/{file_path}"
             }
             icons.append(icon_info)
 
