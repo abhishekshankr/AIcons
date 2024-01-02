@@ -3,7 +3,7 @@ name: Update Icons JSON
 on:
   push:
     branches:
-      - update-github-actions
+      - main
     paths:
       - 'Icons/**'
 
@@ -41,4 +41,4 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: 'Automatically update iconlist JSON files'
-        branch: update-github-actions
+        branch: main

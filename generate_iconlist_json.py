@@ -19,7 +19,7 @@ def generate_json_for_directory(directory, username, repository, branch):
 def main():
     username = 'abhishekshankr'
     repository = 'AIcons'
-    branch = 'update-github-actions'
+    branch = 'main'
 
     for folder in ['Icons/Fill', 'Icons/Stroke']:
         generate_json_for_directory(folder, username, repository, branch)
