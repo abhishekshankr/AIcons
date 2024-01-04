@@ -30,9 +30,6 @@
         "name": "memory-cache.svg"
     },
     {
-        "name": "eye-open 1.svg"
-    },
-    {
         "name": "file-jpg.svg"
     },
     {
@@ -586,6 +583,9 @@
     },
     {
         "name": "arrow-down-right.svg"
+    },
+    {
+        "name": "eye-hidden.svg"
     },
     {
         "name": "openai.svg"
