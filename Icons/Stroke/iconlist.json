@@ -24,6 +24,9 @@
         "name": "clipboard.svg"
     },
     {
+        "name": "write-pen.svg"
+    },
+    {
         "name": "graph-similar.svg"
     },
     {
@@ -91,9 +94,6 @@
     },
     {
         "name": "openapi.svg"
-    },
-    {
-        "name": "key.svg"
     },
     {
         "name": "variable-bracket.svg"
@@ -408,6 +408,9 @@
         "name": "chain-get.svg"
     },
     {
+        "name": "key-full.svg"
+    },
+    {
         "name": "shield.svg"
     },
     {
@@ -460,9 +463,6 @@
     },
     {
         "name": "gitbook.svg"
-    },
-    {
-        "name": "write.svg"
     },
     {
         "name": "chain-sql.svg"
