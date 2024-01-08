@@ -15,6 +15,9 @@
         "name": "cheerio.svg"
     },
     {
+        "name": "arrow-bow.svg"
+    },
+    {
         "name": "serp.svg"
     },
     {
@@ -72,6 +75,9 @@
         "name": "unstructured-logo.svg"
     },
     {
+        "name": "compass.svg"
+    },
+    {
         "name": "notion-database.svg"
     },
     {
@@ -87,6 +93,9 @@
         "name": "bucket.svg"
     },
     {
+        "name": "flag.svg"
+    },
+    {
         "name": "chain-post.svg"
     },
     {
@@ -96,7 +105,13 @@
         "name": "openapi.svg"
     },
     {
+        "name": "git-comparison.svg"
+    },
+    {
         "name": "variable-bracket.svg"
+    },
+    {
+        "name": "upscale.svg"
     },
     {
         "name": "arrow-down-left.svg"
@@ -144,10 +159,16 @@
         "name": "unstructured-folder.svg"
     },
     {
+        "name": "git-commit.svg"
+    },
+    {
         "name": "atoms.svg"
     },
     {
         "name": "upstash-redis.svg"
+    },
+    {
+        "name": "ai-label.svg"
     },
     {
         "name": "assistant.svg"
@@ -177,10 +198,16 @@
         "name": "splitter-code.svg"
     },
     {
+        "name": "code.svg"
+    },
+    {
         "name": "bookmark.svg"
     },
     {
         "name": "tool.svg"
+    },
+    {
+        "name": "star-half-split.svg"
     },
     {
         "name": "elasticsearch.svg"
@@ -201,6 +228,9 @@
         "name": "button-check-box-cross.svg"
     },
     {
+        "name": "wave.svg"
+    },
+    {
         "name": "cohere.svg"
     },
     {
@@ -213,7 +243,13 @@
         "name": "calculator.svg"
     },
     {
+        "name": "key-split.svg"
+    },
+    {
         "name": "shield-check.svg"
+    },
+    {
+        "name": "code-brackets.svg"
     },
     {
         "name": "arrow-down-curved-alt.svg"
@@ -250,6 +286,9 @@
     },
     {
         "name": "recycle.svg"
+    },
+    {
+        "name": "git-merge.svg"
     },
     {
         "name": "file-docx.svg"
@@ -300,7 +339,13 @@
         "name": "minus.svg"
     },
     {
+        "name": "disk-up.svg"
+    },
+    {
         "name": "warning-triangle.svg"
+    },
+    {
+        "name": "heart-straight.svg"
     },
     {
         "name": "arrow-up.svg"
@@ -318,6 +363,9 @@
         "name": "vectara.svg"
     },
     {
+        "name": "bolt.svg"
+    },
+    {
         "name": "supabase.svg"
     },
     {
@@ -330,10 +378,16 @@
         "name": "zoom-in.svg"
     },
     {
+        "name": "image-sparkle.svg"
+    },
+    {
         "name": "playwright.svg"
     },
     {
         "name": "neuralinternetbittensor.svg"
+    },
+    {
+        "name": "robot.svg"
     },
     {
         "name": "agent-csv.svg"
@@ -355,6 +409,9 @@
     },
     {
         "name": "information.svg"
+    },
+    {
+        "name": "git-merge-closed.svg"
     },
     {
         "name": "variable-down.svg"
@@ -423,6 +480,12 @@
         "name": "file-pdf.svg"
     },
     {
+        "name": "disk-down.svg"
+    },
+    {
+        "name": "star.svg"
+    },
+    {
         "name": "arrow-down-curved.svg"
     },
     {
@@ -448,6 +511,9 @@
     },
     {
         "name": "google.svg"
+    },
+    {
+        "name": "wave-sound.svg"
     },
     {
         "name": "file.svg"
@@ -477,6 +543,9 @@
         "name": "save-floppy-disk-back.svg"
     },
     {
+        "name": "write-pencil.svg"
+    },
+    {
         "name": "function.svg"
     },
     {
@@ -486,7 +555,13 @@
         "name": "openai-function.svg"
     },
     {
+        "name": "image-landscape.svg"
+    },
+    {
         "name": "account-user.svg"
+    },
+    {
+        "name": "heart-rounded.svg"
     },
     {
         "name": "lock-open.svg"
@@ -498,6 +573,9 @@
         "name": "file-database.svg"
     },
     {
+        "name": "star-half.svg"
+    },
+    {
         "name": "save-floppy-disk.svg"
     },
     {
@@ -507,7 +585,13 @@
         "name": "searchapi.svg"
     },
     {
+        "name": "speed-meter.svg"
+    },
+    {
         "name": "notion-folder.svg"
+    },
+    {
+        "name": "send-angle.svg"
     },
     {
         "name": "button-check-box-plus.svg"
@@ -549,6 +633,9 @@
         "name": "lock-closed.svg"
     },
     {
+        "name": "image-square.svg"
+    },
+    {
         "name": "database-cache.svg"
     },
     {
@@ -558,10 +645,22 @@
         "name": "redis.svg"
     },
     {
+        "name": "llm-label.svg"
+    },
+    {
+        "name": "send-right.svg"
+    },
+    {
         "name": "api.svg"
     },
     {
+        "name": "image-portrait.svg"
+    },
+    {
         "name": "dynamodb.svg"
+    },
+    {
+        "name": "chat-image.svg"
     },
     {
         "name": "file-json.svg"
@@ -588,6 +687,12 @@
         "name": "eye-hidden.svg"
     },
     {
+        "name": "target.svg"
+    },
+    {
+        "name": "flower-plant.svg"
+    },
+    {
         "name": "openai.svg"
     },
     {
@@ -597,7 +702,13 @@
         "name": "puppeteer.svg"
     },
     {
+        "name": "git-fork.svg"
+    },
+    {
         "name": "figma.svg"
+    },
+    {
+        "name": "chat-text-alt.svg"
     },
     {
         "name": "home.svg"
@@ -619,6 +730,9 @@
     },
     {
         "name": "weaviate.svg"
+    },
+    {
+        "name": "git-merge-pull-request.svg"
     },
     {
         "name": "postgres.svg"
@@ -664,6 +778,9 @@
     },
     {
         "name": "chain-qa.svg"
+    },
+    {
+        "name": "disk.svg"
     },
     {
         "name": "password.svg"
