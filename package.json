@@ -1,6 +1,6 @@
 {
     "name": "aicons",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "A collection of customizable SVG icons built for use in LLM applications",
     "main": "index.js",
     "scripts": {
