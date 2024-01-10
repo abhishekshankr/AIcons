@@ -45,6 +45,9 @@
         "name": "arrow-right-curved-alt.svg"
     },
     {
+        "name": "file-js.svg"
+    },
+    {
         "name": "splitter-markdown.svg"
     },
     {
@@ -52,6 +55,9 @@
     },
     {
         "name": "arrow-up-curved-alt.svg"
+    },
+    {
+        "name": "npm.svg"
     },
     {
         "name": "chat-text.svg"
@@ -88,6 +94,9 @@
     },
     {
         "name": "file-png.svg"
+    },
+    {
+        "name": "file-ts.svg"
     },
     {
         "name": "bucket.svg"
@@ -145,6 +154,9 @@
     },
     {
         "name": "splitter-character.svg"
+    },
+    {
+        "name": "erase.svg"
     },
     {
         "name": "baby.svg"
@@ -426,6 +438,12 @@
         "name": "autogpt.svg"
     },
     {
+        "name": "tensorflow.svg"
+    },
+    {
+        "name": "arrow-loop.svg"
+    },
+    {
         "name": "snowflake.svg"
     },
     {
@@ -456,6 +474,9 @@
         "name": "file-archive.svg"
     },
     {
+        "name": "pytorch.svg"
+    },
+    {
         "name": "database-up.svg"
     },
     {
@@ -463,6 +484,9 @@
     },
     {
         "name": "chain-get.svg"
+    },
+    {
+        "name": "shield-key.svg"
     },
     {
         "name": "key-full.svg"
@@ -540,6 +564,9 @@
         "name": "arrows-corner-inwards.svg"
     },
     {
+        "name": "git.svg"
+    },
+    {
         "name": "save-floppy-disk-back.svg"
     },
     {
@@ -577,6 +604,9 @@
     },
     {
         "name": "save-floppy-disk.svg"
+    },
+    {
+        "name": "file-jsx.svg"
     },
     {
         "name": "agent.svg"
@@ -646,6 +676,9 @@
     },
     {
         "name": "llm-label.svg"
+    },
+    {
+        "name": "paint-palette.svg"
     },
     {
         "name": "send-right.svg"
@@ -730,6 +763,9 @@
     },
     {
         "name": "weaviate.svg"
+    },
+    {
+        "name": "file-tsx.svg"
     },
     {
         "name": "git-merge-pull-request.svg"
