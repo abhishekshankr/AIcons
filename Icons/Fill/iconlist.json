@@ -1,0 +1,824 @@
+[
+    {
+        "name": "output-csv.svg"
+    },
+    {
+        "name": "database-conversation.svg"
+    },
+    {
+        "name": "chat-up.svg"
+    },
+    {
+        "name": "plus.svg"
+    },
+    {
+        "name": "cheerio.svg"
+    },
+    {
+        "name": "arrow-bow.svg"
+    },
+    {
+        "name": "serp.svg"
+    },
+    {
+        "name": "settings-gear-six.svg"
+    },
+    {
+        "name": "clipboard.svg"
+    },
+    {
+        "name": "write-pen.svg"
+    },
+    {
+        "name": "graph-similar.svg"
+    },
+    {
+        "name": "memory-cache.svg"
+    },
+    {
+        "name": "file-jpg.svg"
+    },
+    {
+        "name": "singlestore.svg"
+    },
+    {
+        "name": "arrow-right-curved-alt.svg"
+    },
+    {
+        "name": "file-js.svg"
+    },
+    {
+        "name": "splitter-markdown.svg"
+    },
+    {
+        "name": "openai-shield.svg"
+    },
+    {
+        "name": "arrow-up-curved-alt.svg"
+    },
+    {
+        "name": "npm.svg"
+    },
+    {
+        "name": "chat-text.svg"
+    },
+    {
+        "name": "check.svg"
+    },
+    {
+        "name": "chain-conversation.svg"
+    },
+    {
+        "name": "serper.svg"
+    },
+    {
+        "name": "memory-database.svg"
+    },
+    {
+        "name": "notion-file.svg"
+    },
+    {
+        "name": "unstructured-logo.svg"
+    },
+    {
+        "name": "compass.svg"
+    },
+    {
+        "name": "notion-database.svg"
+    },
+    {
+        "name": "token.svg"
+    },
+    {
+        "name": "openai-assistant.svg"
+    },
+    {
+        "name": "file-png.svg"
+    },
+    {
+        "name": "file-ts.svg"
+    },
+    {
+        "name": "bucket.svg"
+    },
+    {
+        "name": "flag.svg"
+    },
+    {
+        "name": "chain-post.svg"
+    },
+    {
+        "name": "database.svg"
+    },
+    {
+        "name": "openapi.svg"
+    },
+    {
+        "name": "git-comparison.svg"
+    },
+    {
+        "name": "variable-bracket.svg"
+    },
+    {
+        "name": "upscale.svg"
+    },
+    {
+        "name": "arrow-down-left.svg"
+    },
+    {
+        "name": "chat-conversation.svg"
+    },
+    {
+        "name": "memory.svg"
+    },
+    {
+        "name": "bravesearch.svg"
+    },
+    {
+        "name": "rank-bar.svg"
+    },
+    {
+        "name": "ribbon-award-circle.svg"
+    },
+    {
+        "name": "chat-bubble.svg"
+    },
+    {
+        "name": "tool-post.svg"
+    },
+    {
+        "name": "huggingface.svg"
+    },
+    {
+        "name": "io.svg"
+    },
+    {
+        "name": "splitter-character.svg"
+    },
+    {
+        "name": "erase.svg"
+    },
+    {
+        "name": "baby.svg"
+    },
+    {
+        "name": "output-json.svg"
+    },
+    {
+        "name": "database-left.svg"
+    },
+    {
+        "name": "unstructured-folder.svg"
+    },
+    {
+        "name": "git-commit.svg"
+    },
+    {
+        "name": "atoms.svg"
+    },
+    {
+        "name": "upstash-redis.svg"
+    },
+    {
+        "name": "ai-label.svg"
+    },
+    {
+        "name": "assistant.svg"
+    },
+    {
+        "name": "shield-cross.svg"
+    },
+    {
+        "name": "paperclip.svg"
+    },
+    {
+        "name": "warning-round.svg"
+    },
+    {
+        "name": "memory-conversation.svg"
+    },
+    {
+        "name": "arrow-right-curved.svg"
+    },
+    {
+        "name": "stopwatch-timer.svg"
+    },
+    {
+        "name": "chain-prompt.svg"
+    },
+    {
+        "name": "splitter-code.svg"
+    },
+    {
+        "name": "code.svg"
+    },
+    {
+        "name": "bookmark.svg"
+    },
+    {
+        "name": "tool.svg"
+    },
+    {
+        "name": "star-half-split.svg"
+    },
+    {
+        "name": "elasticsearch.svg"
+    },
+    {
+        "name": "moon.svg"
+    },
+    {
+        "name": "ribbon-award.svg"
+    },
+    {
+        "name": "graph-line.svg"
+    },
+    {
+        "name": "dots-embedding.svg"
+    },
+    {
+        "name": "button-check-box-cross.svg"
+    },
+    {
+        "name": "wave.svg"
+    },
+    {
+        "name": "cohere.svg"
+    },
+    {
+        "name": "scissors.svg"
+    },
+    {
+        "name": "chroma.svg"
+    },
+    {
+        "name": "calculator.svg"
+    },
+    {
+        "name": "key-split.svg"
+    },
+    {
+        "name": "shield-check.svg"
+    },
+    {
+        "name": "code-brackets.svg"
+    },
+    {
+        "name": "arrow-down-curved-alt.svg"
+    },
+    {
+        "name": "plugin.svg"
+    },
+    {
+        "name": "sun.svg"
+    },
+    {
+        "name": "web-browser.svg"
+    },
+    {
+        "name": "zapier.svg"
+    },
+    {
+        "name": "flow.svg"
+    },
+    {
+        "name": "button-check-box-multiple.svg"
+    },
+    {
+        "name": "ollama.svg"
+    },
+    {
+        "name": "file-export.svg"
+    },
+    {
+        "name": "motorhead.svg"
+    },
+    {
+        "name": "arrows-corner-expand.svg"
+    },
+    {
+        "name": "recycle.svg"
+    },
+    {
+        "name": "git-merge.svg"
+    },
+    {
+        "name": "file-docx.svg"
+    },
+    {
+        "name": "file-txt.svg"
+    },
+    {
+        "name": "mistralai.svg"
+    },
+    {
+        "name": "arrow-down.svg"
+    },
+    {
+        "name": "azure.svg"
+    },
+    {
+        "name": "memory-window.svg"
+    },
+    {
+        "name": "cross-x.svg"
+    },
+    {
+        "name": "confluence.svg"
+    },
+    {
+        "name": "text.svg"
+    },
+    {
+        "name": "search.svg"
+    },
+    {
+        "name": "home-door.svg"
+    },
+    {
+        "name": "cloud-download.svg"
+    },
+    {
+        "name": "database-down.svg"
+    },
+    {
+        "name": "marketplace.svg"
+    },
+    {
+        "name": "chain.svg"
+    },
+    {
+        "name": "minus.svg"
+    },
+    {
+        "name": "disk-up.svg"
+    },
+    {
+        "name": "warning-triangle.svg"
+    },
+    {
+        "name": "heart-straight.svg"
+    },
+    {
+        "name": "arrow-up.svg"
+    },
+    {
+        "name": "box-code.svg"
+    },
+    {
+        "name": "variable-up.svg"
+    },
+    {
+        "name": "chain-llm.svg"
+    },
+    {
+        "name": "vectara.svg"
+    },
+    {
+        "name": "bolt.svg"
+    },
+    {
+        "name": "supabase.svg"
+    },
+    {
+        "name": "anthropic.svg"
+    },
+    {
+        "name": "database-tool.svg"
+    },
+    {
+        "name": "zoom-in.svg"
+    },
+    {
+        "name": "image-sparkle.svg"
+    },
+    {
+        "name": "playwright.svg"
+    },
+    {
+        "name": "neuralinternetbittensor.svg"
+    },
+    {
+        "name": "robot.svg"
+    },
+    {
+        "name": "agent-csv.svg"
+    },
+    {
+        "name": "google-palm.svg"
+    },
+    {
+        "name": "apify.svg"
+    },
+    {
+        "name": "settings-gear-eight.svg"
+    },
+    {
+        "name": "search-alert.svg"
+    },
+    {
+        "name": "lines-json.svg"
+    },
+    {
+        "name": "information.svg"
+    },
+    {
+        "name": "git-merge-closed.svg"
+    },
+    {
+        "name": "variable-down.svg"
+    },
+    {
+        "name": "copy.svg"
+    },
+    {
+        "name": "google-vertex.svg"
+    },
+    {
+        "name": "autogpt.svg"
+    },
+    {
+        "name": "tensorflow.svg"
+    },
+    {
+        "name": "arrow-loop.svg"
+    },
+    {
+        "name": "snowflake.svg"
+    },
+    {
+        "name": "database-right.svg"
+    },
+    {
+        "name": "chat-down.svg"
+    },
+    {
+        "name": "hourglass.svg"
+    },
+    {
+        "name": "chat-code.svg"
+    },
+    {
+        "name": "milvus.svg"
+    },
+    {
+        "name": "file-csv.svg"
+    },
+    {
+        "name": "google-gemini.svg"
+    },
+    {
+        "name": "chain-db.svg"
+    },
+    {
+        "name": "file-archive.svg"
+    },
+    {
+        "name": "pytorch.svg"
+    },
+    {
+        "name": "database-up.svg"
+    },
+    {
+        "name": "output-list.svg"
+    },
+    {
+        "name": "chain-get.svg"
+    },
+    {
+        "name": "shield-key.svg"
+    },
+    {
+        "name": "key-full.svg"
+    },
+    {
+        "name": "shield.svg"
+    },
+    {
+        "name": "airtable.svg"
+    },
+    {
+        "name": "notion.svg"
+    },
+    {
+        "name": "file-pdf.svg"
+    },
+    {
+        "name": "disk-down.svg"
+    },
+    {
+        "name": "star.svg"
+    },
+    {
+        "name": "arrow-down-curved.svg"
+    },
+    {
+        "name": "tool-get.svg"
+    },
+    {
+        "name": "file-srt.svg"
+    },
+    {
+        "name": "magic-wand.svg"
+    },
+    {
+        "name": "clock-time.svg"
+    },
+    {
+        "name": "zoom-out.svg"
+    },
+    {
+        "name": "aws.svg"
+    },
+    {
+        "name": "pinecone.svg"
+    },
+    {
+        "name": "google.svg"
+    },
+    {
+        "name": "wave-sound.svg"
+    },
+    {
+        "name": "file.svg"
+    },
+    {
+        "name": "file-leftright.svg"
+    },
+    {
+        "name": "trash.svg"
+    },
+    {
+        "name": "mongodb.svg"
+    },
+    {
+        "name": "gitbook.svg"
+    },
+    {
+        "name": "chain-sql.svg"
+    },
+    {
+        "name": "chat-conversation-dots.svg"
+    },
+    {
+        "name": "arrows-corner-inwards.svg"
+    },
+    {
+        "name": "git.svg"
+    },
+    {
+        "name": "save-floppy-disk-back.svg"
+    },
+    {
+        "name": "write-pencil.svg"
+    },
+    {
+        "name": "function.svg"
+    },
+    {
+        "name": "momento.svg"
+    },
+    {
+        "name": "openai-function.svg"
+    },
+    {
+        "name": "image-landscape.svg"
+    },
+    {
+        "name": "account-user.svg"
+    },
+    {
+        "name": "heart-rounded.svg"
+    },
+    {
+        "name": "lock-open.svg"
+    },
+    {
+        "name": "arrow-left-curved.svg"
+    },
+    {
+        "name": "file-database.svg"
+    },
+    {
+        "name": "star-half.svg"
+    },
+    {
+        "name": "save-floppy-disk.svg"
+    },
+    {
+        "name": "file-jsx.svg"
+    },
+    {
+        "name": "agent.svg"
+    },
+    {
+        "name": "searchapi.svg"
+    },
+    {
+        "name": "speed-meter.svg"
+    },
+    {
+        "name": "notion-folder.svg"
+    },
+    {
+        "name": "send-angle.svg"
+    },
+    {
+        "name": "button-check-box-plus.svg"
+    },
+    {
+        "name": "web-globe.svg"
+    },
+    {
+        "name": "arrow-right.svg"
+    },
+    {
+        "name": "share-export.svg"
+    },
+    {
+        "name": "chat-lines.svg"
+    },
+    {
+        "name": "replicate.svg"
+    },
+    {
+        "name": "unstructured-file.svg"
+    },
+    {
+        "name": "clipboard-shield.svg"
+    },
+    {
+        "name": "lunary.svg"
+    },
+    {
+        "name": "button-radio.svg"
+    },
+    {
+        "name": "variable.svg"
+    },
+    {
+        "name": "rank-podium.svg"
+    },
+    {
+        "name": "lock-closed.svg"
+    },
+    {
+        "name": "image-square.svg"
+    },
+    {
+        "name": "database-cache.svg"
+    },
+    {
+        "name": "split.svg"
+    },
+    {
+        "name": "redis.svg"
+    },
+    {
+        "name": "llm-label.svg"
+    },
+    {
+        "name": "paint-palette.svg"
+    },
+    {
+        "name": "send-right.svg"
+    },
+    {
+        "name": "api.svg"
+    },
+    {
+        "name": "image-portrait.svg"
+    },
+    {
+        "name": "dynamodb.svg"
+    },
+    {
+        "name": "chat-image.svg"
+    },
+    {
+        "name": "file-json.svg"
+    },
+    {
+        "name": "arrow-up-curved.svg"
+    },
+    {
+        "name": "chat-dots.svg"
+    },
+    {
+        "name": "puzzle.svg"
+    },
+    {
+        "name": "button-check-box.svg"
+    },
+    {
+        "name": "arrow-down-right.svg"
+    },
+    {
+        "name": "eye-hidden.svg"
+    },
+    {
+        "name": "target.svg"
+    },
+    {
+        "name": "flower-plant.svg"
+    },
+    {
+        "name": "openai.svg"
+    },
+    {
+        "name": "file-search.svg"
+    },
+    {
+        "name": "puppeteer.svg"
+    },
+    {
+        "name": "git-fork.svg"
+    },
+    {
+        "name": "figma.svg"
+    },
+    {
+        "name": "chat-text-alt.svg"
+    },
+    {
+        "name": "home.svg"
+    },
+    {
+        "name": "opensearch.svg"
+    },
+    {
+        "name": "qdrant.svg"
+    },
+    {
+        "name": "file-edit.svg"
+    },
+    {
+        "name": "fruit-apple.svg"
+    },
+    {
+        "name": "file-upload.svg"
+    },
+    {
+        "name": "weaviate.svg"
+    },
+    {
+        "name": "file-tsx.svg"
+    },
+    {
+        "name": "git-merge-pull-request.svg"
+    },
+    {
+        "name": "postgres.svg"
+    },
+    {
+        "name": "folder.svg"
+    },
+    {
+        "name": "arrow-up-right.svg"
+    },
+    {
+        "name": "arrow-left.svg"
+    },
+    {
+        "name": "chat-conversation-code.svg"
+    },
+    {
+        "name": "eye-open.svg"
+    },
+    {
+        "name": "zep.svg"
+    },
+    {
+        "name": "token-split.svg"
+    },
+    {
+        "name": "arrow-left-curved-alt.svg"
+    },
+    {
+        "name": "cloud-upload.svg"
+    },
+    {
+        "name": "file-download.svg"
+    },
+    {
+        "name": "arrow-up-left.svg"
+    },
+    {
+        "name": "github.svg"
+    },
+    {
+        "name": "cloud.svg"
+    },
+    {
+        "name": "chain-qa.svg"
+    },
+    {
+        "name": "disk.svg"
+    },
+    {
+        "name": "password.svg"
+    },
+    {
+        "name": "sparkle.svg"
+    }
+]
