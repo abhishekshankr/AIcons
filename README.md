@@ -30,4 +30,7 @@
     <img src="https://raw.githubusercontent.com/abhishekshankr/AIcons/main/assets/figma-plugin.gif" alt="GIF showcasing the working of a figma plugin for AIcons">
 </div>
    <br>
-    <p> Aicons has a dedicated Figma to browse and display the icons into a Figma file! Get it on the Figma Community.</p>
+    <p> Aicons has a dedicated Figma to browse and display the icons within Figma file. </p>
+
+[Get it on the Figma Community.](https://www.figma.com/community/plugin/1321249969835325622/aicons)
+
