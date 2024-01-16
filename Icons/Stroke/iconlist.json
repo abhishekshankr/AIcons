@@ -1,5 +1,8 @@
 [
     {
+        "name": "list.svg"
+    },
+    {
         "name": "output-csv.svg"
     },
     {
@@ -60,6 +63,9 @@
         "name": "npm.svg"
     },
     {
+        "name": "arrow-circle-right.svg"
+    },
+    {
         "name": "chat-text.svg"
     },
     {
@@ -70,6 +76,9 @@
     },
     {
         "name": "serper.svg"
+    },
+    {
+        "name": "layout-three.svg"
     },
     {
         "name": "memory-database.svg"
@@ -105,6 +114,9 @@
         "name": "flag.svg"
     },
     {
+        "name": "arrow-circle-down.svg"
+    },
+    {
         "name": "chain-post.svg"
     },
     {
@@ -130,6 +142,9 @@
     },
     {
         "name": "memory.svg"
+    },
+    {
+        "name": "arrow-clockwise.svg"
     },
     {
         "name": "bravesearch.svg"
@@ -159,6 +174,9 @@
         "name": "erase.svg"
     },
     {
+        "name": "layout-two-column.svg"
+    },
+    {
         "name": "baby.svg"
     },
     {
@@ -178,6 +196,9 @@
     },
     {
         "name": "upstash-redis.svg"
+    },
+    {
+        "name": "layout-two-row.svg"
     },
     {
         "name": "ai-label.svg"
@@ -220,6 +241,9 @@
     },
     {
         "name": "star-half-split.svg"
+    },
+    {
+        "name": "arrow-circle-up.svg"
     },
     {
         "name": "elasticsearch.svg"
@@ -306,7 +330,16 @@
         "name": "file-docx.svg"
     },
     {
+        "name": "new-label.svg"
+    },
+    {
         "name": "file-txt.svg"
+    },
+    {
+        "name": "layout-four-grid.svg"
+    },
+    {
+        "name": "sticky-note.svg"
     },
     {
         "name": "mistralai.svg"
@@ -316,6 +349,9 @@
     },
     {
         "name": "azure.svg"
+    },
+    {
+        "name": "arrow-counter-clockwise.svg"
     },
     {
         "name": "memory-window.svg"
@@ -420,6 +456,9 @@
         "name": "lines-json.svg"
     },
     {
+        "name": "slider-filter-vertical.svg"
+    },
+    {
         "name": "information.svg"
     },
     {
@@ -436,6 +475,9 @@
     },
     {
         "name": "autogpt.svg"
+    },
+    {
+        "name": "error-x-circle.svg"
     },
     {
         "name": "tensorflow.svg"
@@ -531,6 +573,9 @@
         "name": "aws.svg"
     },
     {
+        "name": "error-x-octagon.svg"
+    },
+    {
         "name": "pinecone.svg"
     },
     {
@@ -553,6 +598,9 @@
     },
     {
         "name": "gitbook.svg"
+    },
+    {
+        "name": "slider-filter-horizontal.svg"
     },
     {
         "name": "chain-sql.svg"
@@ -594,6 +642,9 @@
         "name": "lock-open.svg"
     },
     {
+        "name": "error-x-triangle.svg"
+    },
+    {
         "name": "arrow-left-curved.svg"
     },
     {
@@ -631,6 +682,9 @@
     },
     {
         "name": "arrow-right.svg"
+    },
+    {
+        "name": "link.svg"
     },
     {
         "name": "share-export.svg"
@@ -693,6 +747,9 @@
         "name": "dynamodb.svg"
     },
     {
+        "name": "warning-octagon.svg"
+    },
+    {
         "name": "chat-image.svg"
     },
     {
@@ -700,6 +757,12 @@
     },
     {
         "name": "arrow-up-curved.svg"
+    },
+    {
+        "name": "verified-checkmark.svg"
+    },
+    {
+        "name": "arrow-circle-left.svg"
     },
     {
         "name": "chat-dots.svg"
@@ -817,6 +880,9 @@
     },
     {
         "name": "password.svg"
+    },
+    {
+        "name": "sticky-note-text.svg"
     },
     {
         "name": "sparkle.svg"
