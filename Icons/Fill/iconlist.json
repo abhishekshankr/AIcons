@@ -126,6 +126,9 @@
         "name": "openapi.svg"
     },
     {
+        "name": "rank-bar-arrow-down.svg"
+    },
+    {
         "name": "git-comparison.svg"
     },
     {
@@ -171,7 +174,13 @@
         "name": "splitter-character.svg"
     },
     {
+        "name": "anyscale.svg"
+    },
+    {
         "name": "erase.svg"
+    },
+    {
+        "name": "rabbit-ai.svg"
     },
     {
         "name": "layout-two-column.svg"
@@ -198,6 +207,9 @@
         "name": "upstash-redis.svg"
     },
     {
+        "name": "arrow-loop-vertical.svg"
+    },
+    {
         "name": "layout-two-row.svg"
     },
     {
@@ -205,6 +217,9 @@
     },
     {
         "name": "assistant.svg"
+    },
+    {
+        "name": "perplexity-ai.svg"
     },
     {
         "name": "shield-cross.svg"
@@ -261,6 +276,9 @@
         "name": "dots-embedding.svg"
     },
     {
+        "name": "lines-heart.svg"
+    },
+    {
         "name": "button-check-box-cross.svg"
     },
     {
@@ -304,6 +322,9 @@
     },
     {
         "name": "flow.svg"
+    },
+    {
+        "name": "lines-search.svg"
     },
     {
         "name": "button-check-box-multiple.svg"
@@ -385,6 +406,9 @@
     },
     {
         "name": "minus.svg"
+    },
+    {
+        "name": "rank-bar-arrow-up.svg"
     },
     {
         "name": "disk-up.svg"
@@ -471,6 +495,9 @@
         "name": "copy.svg"
     },
     {
+        "name": "lines-text-edit.svg"
+    },
+    {
         "name": "google-vertex.svg"
     },
     {
@@ -493,6 +520,9 @@
     },
     {
         "name": "chat-down.svg"
+    },
+    {
+        "name": "tag-chevron.svg"
     },
     {
         "name": "hourglass.svg"
@@ -573,6 +603,9 @@
         "name": "aws.svg"
     },
     {
+        "name": "lines-sparkle.svg"
+    },
+    {
         "name": "error-x-octagon.svg"
     },
     {
@@ -601,6 +634,9 @@
     },
     {
         "name": "slider-filter-horizontal.svg"
+    },
+    {
+        "name": "fire-flame.svg"
     },
     {
         "name": "chain-sql.svg"
@@ -726,6 +762,9 @@
         "name": "split.svg"
     },
     {
+        "name": "lines-image.svg"
+    },
+    {
         "name": "redis.svg"
     },
     {
@@ -747,6 +786,9 @@
         "name": "dynamodb.svg"
     },
     {
+        "name": "microprocessor.svg"
+    },
+    {
         "name": "warning-octagon.svg"
     },
     {
@@ -754,6 +796,9 @@
     },
     {
         "name": "file-json.svg"
+    },
+    {
+        "name": "tag.svg"
     },
     {
         "name": "arrow-up-curved.svg"
@@ -867,10 +912,16 @@
         "name": "arrow-up-left.svg"
     },
     {
+        "name": "tag-simple.svg"
+    },
+    {
         "name": "github.svg"
     },
     {
         "name": "cloud.svg"
+    },
+    {
+        "name": "arrow-loop-horizontal.svg"
     },
     {
         "name": "chain-qa.svg"
