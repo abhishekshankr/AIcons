@@ -1,1 +1,11 @@
-<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20 11a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2v11a.996.996 0 0 1-.926.997 1.003 1.003 0 0 1-.781-.29L12 14.414V21a1 1 0 1 1 0 2h-2a1 1 0 1 1 0-2V11a1 1 0 1 1 0-2h.992a.996.996 0 0 1 .716.293m0 0L20 17.586V11" fill="#000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M8 4a4 4 0 0 0-4 4v16a4 4 0 0 0 4 4h16a4 4 0 0 0 4-4V8a4 4 0 0 0-4-4H8ZM6 8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V8Z" fill="#000"/></svg>
+<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M20 11a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2v11a.996.996 0 0 1-.926.997 1.003 1.003 0 0 1-.781-.29L12 14.414V21a1 1 0 1 1 0 2h-2a1 1 0 1 1 0-2V11a1 1 0 1 1 0-2h.992a.996.996 0 0 1 .716.293m0 0L20 17.586V11"
+    fill="#000"
+  /><path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M8 4a4 4 0 0 0-4 4v16a4 4 0 0 0 4 4h16a4 4 0 0 0 4-4V8a4 4 0 0 0-4-4H8ZM6 8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V8Z"
+    fill="#000"
+  /></svg>

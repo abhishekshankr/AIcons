@@ -1,1 +1,9 @@
-<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 2a2 2 0 0 0-2 2v1a1 1 0 1 0 2 0V4h4v1a1 1 0 1 0 2 0V4a2 2 0 0 0-2-2h-4Z" fill="#000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M5 7a1 1 0 0 0 0 2h1.074c0 .047.002.095.005.143l1.225 17.142A4 4 0 0 0 11.294 30h9.413a4 4 0 0 0 3.99-3.715L25.92 9.142A2.07 2.07 0 0 0 25.926 9H27a1 1 0 1 0 0-2H5Zm8 5a1 1 0 0 1 1 1v11a1 1 0 1 1-2 0V13a1 1 0 0 1 1-1Zm7 1a1 1 0 1 0-2 0v11a1 1 0 1 0 2 0V13Z" fill="#000"/></svg>
+<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><path
+    d="M14 2a2 2 0 0 0-2 2v1a1 1 0 1 0 2 0V4h4v1a1 1 0 1 0 2 0V4a2 2 0 0 0-2-2h-4Z"
+    fill="#000"
+  /><path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M5 7a1 1 0 0 0 0 2h1.074c0 .047.002.095.005.143l1.225 17.142A4 4 0 0 0 11.294 30h9.413a4 4 0 0 0 3.99-3.715L25.92 9.142A2.07 2.07 0 0 0 25.926 9H27a1 1 0 1 0 0-2H5Zm8 5a1 1 0 0 1 1 1v11a1 1 0 1 1-2 0V13a1 1 0 0 1 1-1Zm7 1a1 1 0 1 0-2 0v11a1 1 0 1 0 2 0V13Z"
+    fill="#000"
+  /></svg>

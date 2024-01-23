@@ -1,1 +1,6 @@
-<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M14 4C8.477 4 4 8.477 4 14s4.477 10 10 10a9.958 9.958 0 0 0 6.329-2.257l5.464 5.464a1 1 0 0 0 1.414-1.414l-5.464-5.464A9.958 9.958 0 0 0 24 14c0-5.523-4.477-10-10-10Zm-4 9a1 1 0 1 0 0 2h8a1 1 0 1 0 0-2h-8Z" fill="#000"/></svg>
+<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M14 4C8.477 4 4 8.477 4 14s4.477 10 10 10a9.958 9.958 0 0 0 6.329-2.257l5.464 5.464a1 1 0 0 0 1.414-1.414l-5.464-5.464A9.958 9.958 0 0 0 24 14c0-5.523-4.477-10-10-10Zm-4 9a1 1 0 1 0 0 2h8a1 1 0 1 0 0-2h-8Z"
+    fill="#000"
+  /></svg>
