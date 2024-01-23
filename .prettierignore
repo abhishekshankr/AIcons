@@ -1,0 +1,12 @@
+#Ignore System Files
+.DS_Store
+package.json
+package_lock.json
+
+#Igonre github workflows
+.github/
+generate_iconlist_json.py
+
+#Ignore Iconlist JSON
+Icons/Fill/iconlist.json
+Icons/Stroke/iconlist.json
