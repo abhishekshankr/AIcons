@@ -1,10 +1,11 @@
 {
     "name": "aicons",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "description": "A collection of customizable SVG icons built for use in LLM applications",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --plugin=@prettier/plugin-xml  --write '**/*.svg'"
     },
     "repository": {
         "type": "git",
